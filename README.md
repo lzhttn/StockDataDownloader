@@ -1,6 +1,6 @@
 # 下载股票K线数据<br>
 基于Baostock的股票K线数据下载工具<br>
-功能：从Baostock的Python API下载股票和指数的历史K线数据。<br>
+功能：从Baostock下载股票和指数的历史K线数据。<br>
 依赖：baostock<br>
 
 ##使用方法<br>
