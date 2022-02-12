@@ -7,13 +7,13 @@
 直接运行main.py<br>
 
 ## 函数说明<br>
-下载指数的日K线数据<br>
+- 下载指数的日K线数据<br>
 `down_index(code_list)`<br>
 
-下载股票的日K线数据<br>
+- 下载股票的日K线数据<br>
 `down_stocks(code_list)`<br>
 
-下载股票的5分钟K线数据<br>
+- 下载股票的5分钟K线数据<br>
 `down_stocks_5min(code_list)`<br>
 
 具体请参考<br>
