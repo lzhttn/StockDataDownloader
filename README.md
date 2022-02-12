@@ -3,10 +3,10 @@
 功能：从Baostock下载股票和指数的历史K线数据。<br>
 依赖：baostock<br>
 
-##使用方法<br>
+## 使用方法<br>
 直接运行down baostock.py<br>
 
-##函数说明<br>
+## 函数说明<br>
 1. 下载指数的日K线数据<br>
 `down_index(code_list)`<br>
 
