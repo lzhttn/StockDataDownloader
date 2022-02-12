@@ -1,5 +1,5 @@
 # 下载股票K线数据<br>
-基于Baostock的股票K线数据下载工具<br>
+基于Baostock的股票和指数K线数据下载工具<br>
 功能：从Baostock下载股票和指数的历史K线数据<br>
 依赖：baostock<br>
 
