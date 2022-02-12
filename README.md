@@ -3,15 +3,17 @@
 功能：从Baostock的Python API下载股票和指数的历史K线数据。<br>
 依赖：baostock<br>
 
-##使用方法<br><br>
+##使用方法<br>
 直接运行down baostock.py<br>
 
-##函数说明<br><br>
-1.下载指数的日K线数据<br>
+##函数说明<br>
+1. 下载指数的日K线数据<br>
 `down_index(code_list)`<br>
-2.下载股票的日K线数据<br>
+
+2. 下载股票的日K线数据<br>
 `down_stocks(code_list)`<br>
-3.下载股票的5分钟K线数据<br>
+
+3. 下载股票的5分钟K线数据<br>
 `down_stocks_5min(code_list)`<br>
 
 具体请参考<br>
