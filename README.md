@@ -4,7 +4,7 @@
 依赖：baostock<br>
 
 ## 使用方法<br>
-直接运行down baostock.py<br>
+直接运行main.py<br>
 
 ## 函数说明<br>
 1. 下载指数的日K线数据<br>
